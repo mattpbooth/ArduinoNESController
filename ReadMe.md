@@ -18,4 +18,4 @@ Honestly, follow the instructables link above for better info. It's very compreh
 
 How does this work?
 -------------------
-Try this [blog entry](http://www.gamedevblog.co.uk/nes-emulation-real-nes-pad/)
+Try the writeup on my [blog](http://www.gamedevblog.co.uk/nes-emulation-real-nes-pad/).
