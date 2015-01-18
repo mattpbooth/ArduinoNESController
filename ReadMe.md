@@ -16,6 +16,6 @@ Keys mapped to WSAD (movement), GH (select/start), KL (B,A)
 
 Honestly, follow the instructables link above for better info. It's very comprehensive.
 
-How does this work?
--------------------
+Any Other Info?
+---------------
 Try the writeup on my [blog](http://www.gamedevblog.co.uk/nes-emulation-real-nes-pad/).
